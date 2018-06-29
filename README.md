@@ -19,4 +19,4 @@
 - Cシェルスクリプトを使った一括処理
 [テキスト(PDF)]()
 
-作成・編集：長浜バイオ大学 バイオサイエンス学部 生命情報科学コース 生体分子情報学研究室
+作成・編集：[長浜バイオ大学](http://www.nagahama-i-bio.ac.jp/) [バイオサイエンス学部](http://www.nagahama-i-bio.ac.jp/course/cat32/) [生命情報科学コース](http://www.nagahama-i-bio.ac.jp/gakka/course_4.html) [生体分子情報学研究室](http://www.nagahama-i-bio.ac.jp/scholar/bioinfmtcs/ikemura.html)
